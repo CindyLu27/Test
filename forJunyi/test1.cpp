@@ -11,7 +11,7 @@
 int outPutNum(int nNum)
 {
     int nCount = 0;
-    for (int i = 1; i <= nNum; nNum++)
+    for (int i = 1; i <= nNum; i++)
     {
         if(i%3 == 0 && i%5 ==0)
         {
